@@ -13,3 +13,5 @@ Yoow.breed
 
 # if breed is provided
 Puppy = Dog.new("Kiliko", "Slums")
+Puppy.name
+Puppy.breed
